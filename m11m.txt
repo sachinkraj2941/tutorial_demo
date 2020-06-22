@@ -1,0 +1,5 @@
+In this example, we're adding content to test.txt.
+
+Type the following command in PowerShell ISE Console
+
+Set-Content D:\temp\test\test.txt 'Welcome to TutorialsPoint'
